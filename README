@@ -7,8 +7,8 @@
 ## Linux
 ```sh
 cd $HOME
-https://github.com/bilalmizrakci/vss.git
-cd vss
+https://github.com/bilalmizrakci/
+
 python alexa.py https://yourwebsite.com PRoxy_List.txt
 ```
 
